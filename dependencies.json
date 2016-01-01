@@ -52,10 +52,6 @@
       "MD5": "68ede87306d7822fd1e97e6cdac6e2d7",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe.config"
     },
-    "System\\EloBuddy.Networking.dll": {
-      "MD5": "6520cb50502f26e8a50cbb470e09a696",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Networking.dll"
-    },
     "Dependencies\\EloBuddy.Networking.dll": {
       "MD5": "5194b62dd300d3c40343fe38775b74c0",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Networking.dll"
