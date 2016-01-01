@@ -1,0 +1,61 @@
+{
+  "StaticFiles": {
+    "Dependencies\\EloBuddy.Networking.dll": {
+      "MD5": "5194b62dd300d3c40343fe38775b74c0",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Networking.dll"
+    },
+    "Dependencies\\EloBuddy.Unmanaged.dll": {
+      "MD5": "bc921d4419c8453b7f3f2c5fab0365b9",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Unmanaged.dll"
+    },
+    "Dependencies\\git2-6b36945.dll": {
+      "MD5": "720047d08ae0936e6a8c689d9dcc31a6",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/git2-6b36945.dll"
+    },
+    "Dependencies\\LibGit2Sharp.dll": {
+      "MD5": "b77f5f6e2b0a1d128753470ebf4c8e68",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LibGit2Sharp.dll"
+    },
+    "Dependencies\\Newtonsoft.Json.dll": {
+      "MD5": "95e24268172c8908f5b2c906b90a92a7",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/Newtonsoft.Json.dll"
+    },
+    "Dependencies\\PresentationFramework.Aero.dll": {
+      "MD5": "7959172ca21de68f8209c9bb2e20ca90",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/PresentationFramework.Aero.dll"
+    },
+    "Dependencies\\PresentationFramework.dll": {
+      "MD5": "51c66aaf61704529cf7385ce45c5f6e4",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/PresentationFramework.dll"
+    },
+    "EloBuddy.Loader.exe.config": {
+      "MD5": "68ede87306d7822fd1e97e6cdac6e2d7",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe.config"
+    },
+    "System\\EloBuddy.Sandbox.dll": {
+      "MD5": "47df71d838b05b1c001877e957efe818",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Sandbox.dll"
+    },
+    "System\\EloBuddy.SDK.dll": {
+      "MD5": "a3647e616a6b1693cdaafeaf7b2296b4",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
+    },
+    "System\\Newtonsoft.Json.dll": {
+      "MD5": "95e24268172c8908f5b2c906b90a92a7",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/Newtonsoft.Json.dll"
+    },
+    "System\\SharpDX.Direct3D9.dll": {
+      "MD5": "95c4b15083dfe72d6afaccb85fff7cb9",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/SharpDX.Direct3D9.dll"
+    },
+    "System\\SharpDX.dll": {
+      "MD5": "c8a932a73720c18f1a2d2b9352d8bf55",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/SharpDX.dll"
+    }
+  },
+  "Patches": {},
+  "Loader": {
+    "MD5": "bf71fba2c9608232ea96b0a1aec4f24e",
+    "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe"
+  }
+}
